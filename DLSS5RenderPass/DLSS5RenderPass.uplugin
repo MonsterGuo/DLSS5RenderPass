@@ -1,0 +1,41 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.00",
+	"FriendlyName": "DLSS5 Render Pass",
+	"Description": "A Movie Render Queue deferred rendering pass with NVIDIA DLSS 5 (3D-Guided Neural Rendering) support. Applies DLSS 5 neural rendering to the final blended output frames.",
+	"Category": "Rendering",
+	"CreatedBy": "MonsterGuoGuo",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "ActorLayerUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenColorIO",
+			"Enabled": true
+		}
+	],
+	"Modules": [
+		{
+			"Name": "DLSS5RenderPass",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}

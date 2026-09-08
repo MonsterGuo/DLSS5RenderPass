@@ -1,0 +1,74 @@
+=== dlssnr_host init (real SDK) w=1920 h=1080 preset=1 ===
+dlssnr=000002343B4C0000 init_Ext=000002343B4D5DF0 create=000002343B4D5750 eval=000002343B4D59C0 release=000002343B4D6040
+Init_with_ProjectID -> 0x00000001
+caller hook installed slot=000002343B56C080
+Init_Ext(0x876232C) -> 0x00000001
+=== create Feature 18 w=1920 h=1080 preset=1 ===
+AllocateParameters -> 0x00000001 params=0000023465D5AA70
+CreateFeature(18) -> 0x00000001 feature=0000023320E599D0
+Feature 18 created OK
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
+EvaluateFeature -> 0x00000001
