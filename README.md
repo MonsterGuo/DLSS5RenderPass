@@ -2,7 +2,7 @@
 
 ### 修改原有逻辑，现在支持“时间/空间”抗锯齿，这样有更稳定的输出。
 
-### 使用前请下载发布版本，目前支持5.6/5.7
+### 使用前请下载发布版本，目前支持5.6~5.8
 
 ## 0.这个工具只是一个粗略的版本，可以窥见DLSS5 的效果。  
 <img width="1920" height="1080" alt="SQ_Scifi_Mechanic_Base 0000" src="https://github.com/user-attachments/assets/a1ec9433-302d-47d2-a3ea-b779d841a82a" />
